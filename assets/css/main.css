@@ -432,8 +432,8 @@ ul li {
 }*/
 
 .speaker img {
-    width: 400px;
-    height: 300px;
+    max-width: 100%;
+    height: auto;
 }
 
 /*
